@@ -1,0 +1,19 @@
+{
+  "name": "site-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server",
+    "lint": "eslint *.js"
+  },
+  "author": "Thomas Kerbrat",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.2",
+    "http-server": "^14.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
